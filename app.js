@@ -1,4 +1,3 @@
-// ✝f-counter✝
 import Discord from "discord.js";
 
 import { loginId } from "./env.js";
